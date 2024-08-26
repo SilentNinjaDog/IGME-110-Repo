@@ -4,6 +4,7 @@
 1. Venom
 2. Deadpool
 3. Magik
+---
 *DC*
 1. Blue Beetle
 2. Darkseid
