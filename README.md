@@ -7,3 +7,9 @@
 - Star Wars
 - Marvel
 - DC
+
+  1. Cal Kestis
+  2. Venom
+  3. Deadpool
+  4. Blue Beetle
+     
