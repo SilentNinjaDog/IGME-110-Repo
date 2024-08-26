@@ -8,8 +8,8 @@
 - Marvel
 - DC
 
-  1. Cal Kestis
-  2. Venom
-  3. Deadpool
-  4. Blue Beetle
+1. Cal Kestis - https://www.starwars.com/
+2. Venom
+3. Deadpool
+4. Blue Beetle
      
