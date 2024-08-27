@@ -1,7 +1,7 @@
 ## My favorite Superheroes
 ---
 *Marvel*
-1. [Venom] (https://en.wikipedia.org/wiki/Venom_(character))
+1. [Venom](https://en.wikipedia.org/wiki/Venom_(character))
 2. Deadpool
 3. Magik
 ---
