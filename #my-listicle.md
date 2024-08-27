@@ -1,5 +1,5 @@
-## Sonny's Listicle
-# My favorite Superheroes
+# Sonny's Listicle
+## My favorite Superheroes
 ---
 *Marvel*
 1. [Venom](https://en.wikipedia.org/wiki/Venom_(character))
