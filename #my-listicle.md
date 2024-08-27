@@ -2,7 +2,7 @@
 ---
 *Marvel*
 1. [Venom](https://en.wikipedia.org/wiki/Venom_(character))
-2. Deadpool
+2. [Deadpool](https://en.wikipedia.org/wiki/Deadpool)
 3. Magik
 ---
 *DC*
